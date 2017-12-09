@@ -1,0 +1,17 @@
+{
+  "name": "ler-email",
+  "version": "1.0.0",
+  "description": "App para ler emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eduardo Felipe de Oliveira <eduardo_felipe_oliveira@yahoo.com.br>",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.2",
+    "imap": "^0.8.19",
+    "imap-simple": "^3.2.0"
+  }
+}

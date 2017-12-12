@@ -4,7 +4,7 @@ var dateFormat = require('dateformat');
 var config = {
     imap: {
         user: 'eduardo@cloudcom.com.br',
-        password: '190790edu',
+        password: '',
         host: 'imap.gmail.com',
         port: 993,
         tls: true,
